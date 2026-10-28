@@ -51,6 +51,10 @@ navigation:
             path: ../pages-dev/tutorials/synthetic-video.md
           - page: Template Endpoint
             path: ../pages-dev/tutorials/template-endpoint.md
+          - page: AWS SigV4 Authentication
+            path: ../pages-dev/tutorials/aws-sigv4-auth.md
+          - page: AWS SageMaker
+            path: ../pages-dev/tutorials/aws-sagemaker.md
       - section: Datasets & Inputs
         collapsed: true
         contents:
@@ -106,6 +110,8 @@ navigation:
             path: ../pages-dev/tutorials/weka-trace.md
           - page: Replay TraceLab Agentic Coding Traces
             path: ../pages-dev/tutorials/tracelab-trace.md
+          - page: Replay H CUA Perf Computer-Use Agent Traces
+            path: ../pages-dev/tutorials/h-cua-perf.md
           - page: InferenceX AgentX MVP Benchmark
             path: ../pages-dev/tutorials/agentx-mvp.md
       - section: Load Patterns & Scheduling
